@@ -1,1 +1,2 @@
 "Imi© i nazwisko: Jan Kowalski" 
+"IP Hosta: 10.0.2.15" 
